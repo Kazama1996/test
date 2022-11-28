@@ -4,5 +4,6 @@ int main()
 {
 	printf("Hello World!\n");
 	printf("this is featureA");
-return (0);
+	printf("this is feature B");
+	return (0);
 }
